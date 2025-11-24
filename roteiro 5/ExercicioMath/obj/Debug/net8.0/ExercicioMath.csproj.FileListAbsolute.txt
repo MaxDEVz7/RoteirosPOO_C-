@@ -1,0 +1,15 @@
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\bin\Debug\net8.0\ExercicioMath.exe
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\bin\Debug\net8.0\ExercicioMath.deps.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\bin\Debug\net8.0\ExercicioMath.runtimeconfig.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\bin\Debug\net8.0\ExercicioMath.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\bin\Debug\net8.0\ExercicioMath.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.AssemblyInfoInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.AssemblyInfo.cs
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.csproj.CoreCompileInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.sourcelink.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\refint\ExercicioMath.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ExercicioMath.genruntimeconfig.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro5\ExercicioMath\obj\Debug\net8.0\ref\ExercicioMath.dll

@@ -1,0 +1,15 @@
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\bin\Debug\net8.0\Ex5.exe
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\bin\Debug\net8.0\Ex5.deps.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\bin\Debug\net8.0\Ex5.runtimeconfig.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\bin\Debug\net8.0\Ex5.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\bin\Debug\net8.0\Ex5.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.AssemblyInfoInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.AssemblyInfo.cs
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.sourcelink.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\refint\Ex5.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\Ex5.genruntimeconfig.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro6\Ex5\obj\Debug\net8.0\ref\Ex5.dll

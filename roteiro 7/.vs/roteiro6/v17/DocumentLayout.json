@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{219C76F7-5F46-4CA0-8C38-07E62D6DDBB6}|Ex5\\Ex5.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro6\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219C76F7-5F46-4CA0-8C38-07E62D6DDBB6}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro6\\Ex5\\Program.cs",
+              "RelativeDocumentMoniker": "Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro6\\Ex5\\Program.cs",
+              "RelativeToolTip": "Ex5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:48:10.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
